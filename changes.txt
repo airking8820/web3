@@ -1,0 +1,29 @@
+1.3
+- Updated Revolution Slider to 6.6.14
+- Improved WooCommerce 7.8 compatibility
+
+1.2
+- Added WordPress 6.2 compatibility
+- Added WooCommerce 7.6.1 compatibility
+- Updated Qode Framework Plugin to 1.2.2
+- Updated Deon Core plugin to 1.0.2
+- Updated Revolution Slider plugin to 6.6.12
+- Improved PHP8 compatibility
+- Improved Instagram Feed plugin compatibility
+- Fixed Elements panel -> Slider Arrows custom SVG global options
+
+1.1
+- Added WordPress 6.1.1 compatibility
+- Added WooCommerce 7.4.0 compatibility
+- Updated Qode Framework Plugin to 1.2.1
+- Updated Deon Core plugin to 1.0.1
+- Updated Revolution Slider plugin to 6.6.11
+- Updated pot files
+- Improved themes security
+- Improved Elementor compatibility
+- Improved custom sidebar area functionality
+- Improved Google maps API with a callback function
+- Disabled Google Fonts loading if global option (Enable Google Fonts) is set to No
+- Fixed title color option not applying properly
+- Fixed first level menu hover/active color option not applying properly
+- Fixed minor bugs
